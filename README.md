@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  🤔 I’m looking for help with ...
+<figure>
+ <img alt='ELe'/>
+ <figcaption>Elepicture</figcation>
+ </figure>
